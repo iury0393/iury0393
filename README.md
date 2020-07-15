@@ -7,12 +7,11 @@
 
 ### Hii! 👋 Welcome to my profile
 
-My name is Iury and I'm web developer, and i love the world of mobile development.
+My name is Iury and I'm full-stack developer, and i love the world of mobile development.
 
  - 💙 In love with flutter and learning everyday
  - 🌱 Currently learning Node.js, React
  - 😄 Also learning React Native
- - 🔭 I’m currently working with PHP
  - ⚡ Dream of working Home Office
 
 

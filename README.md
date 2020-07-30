@@ -12,7 +12,7 @@ My name is Iury and I'm full-stack developer, and i love the world of mobile dev
  - 💙 In love with flutter and learning everyday
  - 🌱 Currently learning Node.js, React
  - 😄 Also learning React Native
- - ⚡ Dream of working with Flutter
+ - ⚡ Dream of working with inovation and new technologies
 
 
 <!--

@@ -7,25 +7,10 @@
 
 ### Hii! 👋 Welcome to my profile
 
-My name is Iury and I'm full-stack developer, and i love the world of mobile development.
+I am passionate about solving problems using programming.
+I'm a Mobile Developer. 📱
 
- - 💙 In love with flutter and learning everyday
- - 🌱 Currently learning Node.js, React
- - 😄 Also learning React Native
- - ⚡ Dream of working with inovation and new technologies
-
-
-<!--
-**iury0393/iury0393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:smile_cat:  &nbsp; I'm working on **CatSkillet**
+<br/> :blue_heart: &nbsp; In love with flutter and learning everyday
+<br/> :computer: &nbsp; My stack: Flutter, ReactJS, Node.js & Typescript
+<br/> 💬  &nbsp; About me: I like technologies, games, anime and series on Netflix

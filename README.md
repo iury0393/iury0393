@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/iury0393">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iury0393&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iury0393&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iury0393&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iury0393&layout=compact&theme=default&langs_count=7&theme=synthwave"/>
 </div>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=plastic&logo=Github&logoColor=white&link=https://github.com/iury0393)](https://github.com/iury0393)

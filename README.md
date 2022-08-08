@@ -16,12 +16,10 @@
 I am passionate about solving problems using programming.
 I'm a Mobile Developer. 📱
 
-:smile_cat:  &nbsp; I'm working on **Adecco**
-<br/> :blue_heart: &nbsp; In love with Flutter and learning everyday
-<br/> :computer: &nbsp; My stack:<br/>
-![Flutter Badge](https://img.shields.io/badge/Flutter-%2523E34F26.svg?style=for-the-badge&logo=flutter&logoColor=white&color=blue)
+:smile_cat:  &nbsp; I'm working on **Accenture**
+<br/> :blue_heart: &nbsp; In love with:
+<br/>![Flutter Badge](https://img.shields.io/badge/Flutter-%2523E34F26.svg?style=for-the-badge&logo=flutter&logoColor=white&color=blue)
 ![Swift Badge](https://img.shields.io/badge/Swift-%2523E34F26.svg?style=for-the-badge&logo=swift&logoColor=white&color=orange)
-![React.Js Badge](https://img.shields.io/badge/React.Js-%2523E34F26.svg?style=for-the-badge&logo=react&logoColor=white&color=informational)
-![Node.Js Badge](https://img.shields.io/badge/Node.Js-%2523E34F26.svg?style=for-the-badge&logo=Node.JS&logoColor=white&color=greem)
-![Typescript Badge](https://img.shields.io/badge/Typescript-%2523E34F26.svg?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
+<br/>![Mobile Badge](https://img.shields.io/badge/Mobile-%2523E34F26.svg?style=for-the-badge&logoColor=white&color=black)
+![Learning Badge](https://img.shields.io/badge/Learning-%2523E34F26.svg?style=for-the-badge&color=green)
 <br/> 💬  &nbsp; About me: I like technologies, games, anime and series/movies on Netflix
